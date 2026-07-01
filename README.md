@@ -3,9 +3,9 @@
 ![Stage](https://img.shields.io/badge/Pipeline-3--Stage-orange)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Model-Qwen2.5--0.5B-blue" height="35">
-  <img src="https://img.shields.io/badge/Framework-Unsloth-green" height="35">
-  <img src="https://img.shields.io/badge/Pipeline-3--Stage-orange" height="35">
+  <img src="https://img.shields.io/badge/Model-Qwen2.5--0.5B-blue" height="50">
+  <img src="https://img.shields.io/badge/Framework-Unsloth-green" height="50">
+  <img src="https://img.shields.io/badge/Pipeline-3--Stage-orange" height="50">
 </p>
 
 # Domain-Specific AI Assistant Fine-Tuning — E-commerce Product Support
