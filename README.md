@@ -2,7 +2,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Unsloth-green)
 ![Stage](https://img.shields.io/badge/Pipeline-3--Stage-orange)
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Model-Qwen2.5--0.5B-blue" height="50">
   <img src="https://img.shields.io/badge/Framework-Unsloth-green" height="50">
   <img src="https://img.shields.io/badge/Pipeline-3--Stage-orange" height="50">
