@@ -2,6 +2,12 @@
 ![Framework](https://img.shields.io/badge/Framework-Unsloth-green)
 ![Stage](https://img.shields.io/badge/Pipeline-3--Stage-orange)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Model-Qwen2.5--0.5B-blue" height="35">
+  <img src="https://img.shields.io/badge/Framework-Unsloth-green" height="35">
+  <img src="https://img.shields.io/badge/Pipeline-3--Stage-orange" height="35">
+</p>
+
 # Domain-Specific AI Assistant Fine-Tuning — E-commerce Product Support
 
 ## 1. Project Title
