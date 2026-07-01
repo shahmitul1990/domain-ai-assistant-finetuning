@@ -1,3 +1,7 @@
+![Model](https://img.shields.io/badge/Model-Qwen2.5--0.5B-blue)
+![Framework](https://img.shields.io/badge/Framework-Unsloth-green)
+![Stage](https://img.shields.io/badge/Pipeline-3--Stage-orange)
+
 # Domain-Specific AI Assistant Fine-Tuning — E-commerce Product Support
 
 ## 1. Project Title
